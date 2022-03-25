@@ -5,6 +5,7 @@ Project teams are:
 - Toronto -- Matt Ratto; Robert Soden
 - Edinburgh -- arno verhoeven
 - Concordia -- Bart Simon 
+- Collaborators: lee wilkins, janna frenzel, isabelle boucher, edith, idun isdrake, michael iantorno, robert marinov, malte, christine white, don undeen, 
 
 # Material Sources
 ## Solar Panels
