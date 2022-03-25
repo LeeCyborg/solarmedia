@@ -15,7 +15,10 @@ Project teams are:
 - [Adafruit USB/DC/Solar charger](https://www.adafruit.com/product/390)
 - [DIY Charger](https://maker.pro/arduino/projects/diy-solar-battery-charger) using the [TP4056](https://www.best-microcontroller-projects.com/tp4056.html) 
     
-# External Resources 
+## Super capacitors 
+- [1](https://www.digikey.ca/en/products/detail/eaton-electronics-division/XB3560-2R5407-R/3721393), [2](https://www.mouser.ca/new/maxwell-technologies/maxwell-350f-ultracapacitor-cell/), [Cheap alternative](http://www.samwha.com/electric/product/list_pdf1/db.pdf), [Dangerous & Expensive](https://www.ebay.ca/itm/393389435530?hash=item5b97d66a8a:g:oxEAAOSwsldgwx6O) 
+
+# Learning Resources 
     
 ## Understanding Power 
 - [Multimeter](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter/all)
