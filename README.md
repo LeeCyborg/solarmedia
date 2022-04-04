@@ -2,10 +2,11 @@
 
 This repo holds details from a joint project between UoToronto, UoEdinburgh and Concordia.
 Project teams are:
+
+- Solar Media team: lee wilkins, janna frenzel, isabelle boucher, edith viau, idun isdrake, michael iantorno, robert marinov, malte leander, christine white, don undeen, alex custodio
 - Toronto -- Matt Ratto; Robert Soden
 - Edinburgh -- arno verhoeven
 - Concordia -- Bart Simon 
-- Collaborators: lee wilkins, janna frenzel, isabelle boucher, edith, idun isdrake, michael iantorno, robert marinov, malte, christine white, don undeen, 
 
 # Material Sources
 ## Solar Panels
