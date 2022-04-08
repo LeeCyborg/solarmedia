@@ -30,6 +30,8 @@ void loop() {
 }
 
 void voltage() {
+  Serial.print("The read value is:");
+  Serial.println(analogRead(solarPin));
   int Input  = analogRead(solarPin); // Read the analog  value
   double voltage = Input * (5.0 / 1024.0)*v; //convert the value to volts
   Serial.print("Voltage: ");
