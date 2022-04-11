@@ -25,15 +25,15 @@ void setup() {
 void loop() {
   modifier = analogRead(knobPin) * 2;
   tone(11, random((analogRead(A0) - modifier), analogRead(A0) + modifier), random(0, analogRead(A0)));
-  delay(random(100));
+  delay(random(300));
   voltage();
 }
 
 void voltage() {
   Serial.print("The read value is:");
   Serial.println(analogRead(solarPin));
-  int Input  = analogRead(solarPin); // Read the analog  value
-  double voltage = Input * (5.0 / 1024.0)*v; //convert the value to volts
+  int Input  = analogRead(solarPin); 
+  double voltage = Input * (5.0 / 1024.0)*v; 
   Serial.print("Voltage: ");
   Serial.print(voltage);
   Serial.println(" V");
