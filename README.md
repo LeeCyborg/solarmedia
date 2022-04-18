@@ -7,6 +7,7 @@ Project teams are:
 - Toronto -- Matt Ratto; Robert Soden
 - Edinburgh -- arno verhoeven
 - Concordia -- Bart Simon 
+More info at [https://www.solar-media.net/](https://www.solar-media.net/)
 
 # Material Sources
 ## Solar Panels
